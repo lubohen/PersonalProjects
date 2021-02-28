@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\luboh\\anaconda3\\python.exe"
+    "python.pythonPath": "c:\\Users\\luboh\\anaconda3\\envs\\scrapyenv\\python.exe",
+    "jupyter.jupyterServerType": "local"
 }
