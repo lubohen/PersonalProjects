@@ -1,4 +1,6 @@
 {
-    "python.pythonPath": "c:\\Users\\luboh\\anaconda3\\envs\\scrapyenv\\python.exe",
-    "jupyter.jupyterServerType": "local"
+    "python.pythonPath": "C:\\Users\\luboh\\anaconda3\\envs\\studyenv\\python.exe",
+    "jupyter.jupyterServerType": "local",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
